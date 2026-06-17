@@ -1,0 +1,12 @@
+flask
+requests
+pyserial
+opencv-python
+numpy
+tensorflow
+ultralytics
+gpiozero
+lgpio
+picamera2
+smbus2
+folium
