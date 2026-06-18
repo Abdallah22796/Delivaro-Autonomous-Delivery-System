@@ -1,0 +1,42 @@
+name: delivero_new
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.1.0
+  latlong2: ^0.9.1
+  http: ^1.1.0
+  cupertino_icons: ^1.0.8
+  shared_preferences: ^2.5.5
+  geolocator: ^14.0.2
+  dio: ^5.4.0
+  provider: ^6.1.1
+  qr_flutter: ^4.1.0
+  intl: ^0.20.2
+  image_picker: ^1.0.7  # ✅ ضيفها هنا بالضبط
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+   - assets/arduino.png
+   - assets/logo.png
+   - assets/cpu.png
+   - assets/raspberry_pi.png
+   - assets/ultrasonic_sensor.png  
+   - assets/servo_motor_sg90.png
+   - assets/dht11.png
+   - assets/Gemini_Generated_Image_tuu1uwtuu1uwtuu1-removebg-preview.png
+   - assets/logo_design.png
+   - assets/logo_design2.png

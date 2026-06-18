@@ -1,60 +1,16 @@
-# Delivaro Autonomous Delivery System
+# delivero_new
 
-## Project Description
+A new Flutter project.
 
-Autonomous delivery robot using:
+## Getting Started
 
-* GPS Navigation
-* IMU Sensor
-* CNN Lane Following
-* YOLO Object Detection
-* QR Verification System
-* Return to Home Function
+This project is a starting point for a Flutter application.
 
-## Technologies Used
+A few resources to get you started if this is your first Flutter project:
 
-* Python
-* Raspberry Pi
-* Flask
-* OpenCV
-* TensorFlow Lite
-* YOLOv8
-* GPS Module
-* IMU Sensor
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-## Python Packages
-
-* flask
-* requests
-* pyserial
-* opencv-python
-* numpy
-* tensorflow
-* ultralytics
-* gpiozero
-* lgpio
-* picamera2
-* smbus2
-* folium
-
-## Installation
-
-Install required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Run
-
-Run Robot Controller:
-
-```bash
-python robot_controller.py
-```
-
-Run Autonomous Navigation System:
-
-```bash
-python clonee.py
-```
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
